@@ -32,7 +32,7 @@ Both files are self-contained single-file apps with all CSS and JS inline.
 
 1. Create a Firebase project at [console.firebase.google.com](https://console.firebase.google.com)
 2. Enable **Realtime Database**
-3. Open `CSK-VOTING-SYSTEM.html` in a browser (or serve via any static host)
+3. Open `E-Ballot Concept.htmll` in a browser (or serve via any static host)
 4. In the **Settings** tab of the Admin panel, configure:
    - Admin username & password
    - Portal logo URL (shown on idle screen)
