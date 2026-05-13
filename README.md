@@ -22,7 +22,7 @@ A single-file, Firebase-backed voting portal system built for CSK (Club/Student 
 
 | File | Description |
 |------|-------------|
-| `CSK-VOTING-SYSTEM.html` | Voter-facing kiosk portal |
+| `E-Ballot Concept.html` | Voter-facing kiosk portal |
 
 Both files are self-contained single-file apps with all CSS and JS inline.
 
